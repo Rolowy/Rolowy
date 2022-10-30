@@ -8,8 +8,10 @@
 ## 💬 Ask me
 
 
-## 🛠️ Technologies and Tools I use:
+## 🛠️ Technologies and tools learned
 
+[![git](https://img.shields.io/badge/-Git-F05032?style=flat-square&logo=git&logoColor=white)](https://git-scm.com/)
 
-## ❤️ Let's keep in touch:
+## ❤️ Let's keep in touch
+
 
