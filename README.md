@@ -18,3 +18,7 @@
 ## ❤️ Let's keep in touch
 
 [![react](https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/rolowy/)
+
+## 🗄 Data
+
+![alt text](https://github-readme-stats-anuraghazra1.vercel.app/api?username=rolowy&show_icons=true)
