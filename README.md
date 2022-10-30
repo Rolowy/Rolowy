@@ -1,14 +1,14 @@
 ### Hi there 👋
 
-##👨🏻‍💻 About Me:
+## 👨🏻‍💻 About Me:
 
 - 👩‍💻 I'm currently working on...
 - 🧠 I’m currently learning Docker and Kubernetes
 
-##💬 Ask me
+## 💬 Ask me
 
 
-##🛠️ Technologies and Tools I use:
+## 🛠️ Technologies and Tools I use:
 
 
 ## ❤️ Let's keep in touch:
