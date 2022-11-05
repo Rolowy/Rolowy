@@ -18,9 +18,9 @@
 [![css3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)](https://www.w3schools.com/css/)
 [![express](https://img.shields.io/badge/express.js-%23404d59.svg?style=for-the-badge&logo=express&logoColor=%2361DAFB)](https://expressjs.com/)
 [![npm](https://img.shields.io/badge/NPM-%23000000.svg?style=for-the-badge&logo=npm&logoColor=white)](https://www.npmjs.com/)
-[![nodejs](https://img.shields.io/badge/-Nodejs-43853d?style=flat-square&logo=Node.js&logoColor=white)](https://nodejs.org/)
-[![postman](https://img.shields.io/badge/-Postman-00C7B7?style=flat-square&logo=postman&logoColor=white)](https://www.postman.com/)
-[![insomnia](https://img.shields.io/badge/-Insomnia-6b00db?style=flat-square&logo=insomnia&logoColor=white)](https://insomnia.rest/)
+[![nodejs](https://img.shields.io/badge/-Nodejs-43853d?style=for-the-badge&logo=Node.js&logoColor=white)](https://nodejs.org/)
+[![postman](https://img.shields.io/badge/-Postman-00C7B7?style=for-the-badge&logo=postman&logoColor=white)](https://www.postman.com/)
+[![insomnia](https://img.shields.io/badge/-Insomnia-6b00db?style=for-the-badge&logo=insomnia&logoColor=white)](https://insomnia.rest/)
 
 
 ## ❤️ Let's keep in touch
