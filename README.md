@@ -2,10 +2,13 @@
 
 ## 👨🏻‍💻 About Me:
 
-- 👩‍💻 I'm currently working on a website to support new developers, which will be seen at [lukaszkaminski.net](https://lukaszkaminski.net)
-- 🧠 I’m currently learning Docker and Kubernetes
+- 👩‍💻 I'm currently working on a website to support new developers, which will be seen at [lukaszkaminski.net](https://lukaszkaminski.net).
+- 🧠 I’m currently learning Docker and Kubernetes.
+- ❤️‍🔥 I’m looking to collaborate for Dev Projects.
 
 ## 💬 Ask me
+
+Do you have a question? Send me a message, I'll be happy to answer. :)
 
 ## 🛠️ Technologies and tools learned
 
