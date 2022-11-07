@@ -7,7 +7,7 @@
 - 🧠 I’m currently learning Docker and Kubernetes.
 - ❤️‍🔥 I’m looking to collaborate for Dev Projects.
 - 🍎 Open to learning.
-- ⚡ Fun fact: I play drums.
+- ⚡ Fun fact: I started my programming beginnings with the Pawn language. 💕
 
 
 ## 💬 Ask me
