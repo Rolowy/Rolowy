@@ -1,10 +1,14 @@
-### Hi there 👋
+### Hi there 👋 I'm Łukasz Kamiński
 
 ## 👨🏻‍💻 About Me:
 
+- 💻 React Delevoper
 - 👩‍💻 I'm currently working on a website to support new developers, which will be seen at [lukaszkaminski.net](https://lukaszkaminski.net).
 - 🧠 I’m currently learning Docker and Kubernetes.
 - ❤️‍🔥 I’m looking to collaborate for Dev Projects.
+- 🍎 Open to learning.
+- ⚡ Fun fact: I play drums.
+
 
 ## 💬 Ask me
 
