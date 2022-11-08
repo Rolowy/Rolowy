@@ -14,6 +14,7 @@
 
 Do you have a question? Send me a message, I'll be happy to answer. :)
 
+
 ## 🛠️ Technologies and tools learned
 
 [![git](https://img.shields.io/badge/-Git-F05032?style=for-the-badge&logo=git&logoColor=white)](https://git-scm.com/)
@@ -32,9 +33,21 @@ Do you have a question? Send me a message, I'll be happy to answer. :)
 [![insomnia](https://img.shields.io/badge/-Insomnia-6B00DB?style=for-the-badge&logo=insomnia&logoColor=white)](https://insomnia.rest/)
 
 
+## 👇 Visit my friends, too.
+
+- [@tged](https://www.github.com/TGed)
+- [@nazarowy96](https://github.com/nazarowy96)
+
+
+## 💥 Useful pages
+
+ - [Fireship](https://fireship.io/)
+
+
 ## ❤️ Let's keep in touch
 
 [![react](https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/rolowy/)
+
 
 ## 🗄 Data
 
