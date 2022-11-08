@@ -41,7 +41,7 @@ Do you have a question? Send me a message, I'll be happy to answer. :)
 
 ## 💥 Useful pages
 
- - [Fireship](https://fireship.io/)
+ - [Fireship.io](https://fireship.io/)
 
 
 ## ❤️ Let's keep in touch
