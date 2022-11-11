@@ -32,6 +32,7 @@ Do you have a question? Send me a message, I'll be happy to answer. :)
 [![postman](https://img.shields.io/badge/-Postman-00C7B7?style=for-the-badge&logo=postman&logoColor=white)](https://www.postman.com/)
 [![insomnia](https://img.shields.io/badge/-Insomnia-6B00DB?style=for-the-badge&logo=insomnia&logoColor=white)](https://insomnia.rest/)
 
+![Most User Languages](https://github-readme-stats-sigma-sable.vercel.app/api/top-langs?username=rolowy&show_icons=true&locale=en&layout=compact&theme=slateorange)
 
 ## 👇 Visit my friends, too.
 
