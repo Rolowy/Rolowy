@@ -49,7 +49,7 @@ Do you have a question? Send me a message, I'll be happy to answer. :)
 
 ## ❤️ Let's keep in touch
 
-[![react](https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/rolowy/)
+[![react](https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/%C5%82ukaszkami%C5%84ski/)
 [![stackoverflow](https://img.shields.io/badge/stack%20overflow-FE7A16?style=for-the-badge&logo=stack-overflow&logoColor=white)](https://stackoverflow.com/users/16253160/rolowy)
 
 
